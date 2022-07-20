@@ -1604,8 +1604,8 @@ ol {
 @media (max-width: 768px) {
   .hero-section .laptop-image {
     left: 20px;
-    top: 60px;
-    width: 300px !important;
+    bottom: 400px;
+    width: 250px !important;
   }
 }
 @media only screen and (min-width: 768px) and (max-width: 991px) {
@@ -1748,8 +1748,9 @@ ol {
     list-style: none;
   }
   .hero-text {
-    position: relative;
+     position: relative;
     left: 30px;
+    top: 195px;
   }
   .fact-section {
     position: relative;
