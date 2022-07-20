@@ -8,7 +8,9 @@
 /*----------------------------------------*/
 /* Template default CSS
 /*----------------------------------------*/
-
+a.icon.iconForPowr.powrMark.powrMarkLink.js-watermark.centerParent.none {
+    display: none;
+}
 @font-face {
   font-family: "Futura";
   src: url("../fonts/Futura.woff");
